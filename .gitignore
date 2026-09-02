@@ -1,0 +1,13 @@
+# 构建产物
+*.obj
+*.exe
+__pycache__/
+compile_err.txt
+compile_out.txt
+
+# 本地工具数据（私有，不上传）
+.workbuddy/
+
+# 系统文件
+Thumbs.db
+.DS_Store
