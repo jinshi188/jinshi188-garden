@@ -8,6 +8,11 @@ compile_out.txt
 # 本地工具数据（私有，不上传）
 .workbuddy/
 
+# 体积大的中间产物（不上传）
+_downloads/
+_build/
+gtp_logs/
+
 # 系统文件
 Thumbs.db
 .DS_Store
